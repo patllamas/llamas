@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/llamas/static/css/main.a4b29931.chunk.css",
+    "main.js": "/llamas/static/js/main.13701f80.chunk.js",
+    "main.js.map": "/llamas/static/js/main.13701f80.chunk.js.map",
+    "runtime-main.js": "/llamas/static/js/runtime-main.d0228086.js",
+    "runtime-main.js.map": "/llamas/static/js/runtime-main.d0228086.js.map",
+    "static/js/2.5da88b8c.chunk.js": "/llamas/static/js/2.5da88b8c.chunk.js",
+    "static/js/2.5da88b8c.chunk.js.map": "/llamas/static/js/2.5da88b8c.chunk.js.map",
+    "index.html": "/llamas/index.html",
+    "static/css/main.a4b29931.chunk.css.map": "/llamas/static/css/main.a4b29931.chunk.css.map",
+    "static/js/2.5da88b8c.chunk.js.LICENSE.txt": "/llamas/static/js/2.5da88b8c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/llamas/static/media/hitoshi-namura-MyiYvI-EKis-unsplash.c87d6f09.jpg",
+    "static/media/pat.jpg": "/llamas/static/media/pat.5f085696.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0228086.js",
+    "static/js/2.5da88b8c.chunk.js",
+    "static/css/main.a4b29931.chunk.css",
+    "static/js/main.13701f80.chunk.js"
+  ]
+}
