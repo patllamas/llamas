@@ -9,7 +9,7 @@ function App() {
             <img
               id="pictureImage"
               className="picture-image"
-              src={require("./images/pat.jpg").default}
+              src={require("./images/duckicon.png").default}
               alt="Patrick Llamas"
               width="320"
               height="320"
